@@ -1,6 +1,6 @@
 # AI Collaboration & Engineering Notes
 
-This document details how AI assistance (Claude / ChatGPT) was integrated into the workflow to design, implement, test, and refine the **Smart Expense Tracker API**.
+This document details how AI assistance was integrated into the workflow to design, implement, test, and refine the **Smart Expense Tracker API**.
 
 ---
 
