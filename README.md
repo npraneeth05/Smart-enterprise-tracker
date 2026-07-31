@@ -32,10 +32,10 @@ pip install -r requirements.txt
 
 ```bash
 uvicorn src.main:app --reload
-
+```
 Once started, the API server will be available at http://127.0.0.1:8000.
 To access interactive Swagger API Documentation, visit http://127.0.0.1:8000/docs
-```
+
 
 # Command to Run Tests
 
